@@ -42,31 +42,23 @@
   </g>
 
   <!-- small label chip -->
-  <rect x="90" y="78" width="235" height="34" rx="17" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.45"/>
-  <text x="110" y="101" fill="#8BE9FF" font-size="15" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
-    GLOBAL PAYMENTS INFRA
-  </text>
+<rect x="90" y="66" width="235" height="34" rx="17" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.45"/>
+<text x="110" y="89" fill="#8BE9FF" font-size="15" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+  GLOBAL PAYMENTS INFRA
+</text>
 
-  <!-- left copy -->
-  <text x="90" y="165" fill="white" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="800">
-    BATUHAN BITER
-  </text>
+<!-- left copy -->
+<text x="90" y="170" fill="white" font-size="60" font-family="Segoe UI, Arial, sans-serif" font-weight="800">
+  BATUHAN BITER
+</text>
 
-  <text x="92" y="220" fill="#00D4FF" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
-    Senior Backend Engineer
-  </text>
+<text x="92" y="235" fill="#00D4FF" font-size="32" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+  Senior Backend Engineer
+</text>
 
-  <text x="92" y="260" fill="#94A3B8" font-size="20" font-family="Segoe UI, Arial, sans-serif">
-    Currently building payment systems at Financial House
-  </text>
-
-  <text x="92" y="305" fill="#CBD5E1" font-size="22" font-family="Segoe UI, Arial, sans-serif">
-    FinTech • Payments • Distributed Systems • London, UK
-  </text>
-
-  <text x="92" y="355" fill="#94A3B8" font-size="21" font-family="Segoe UI, Arial, sans-serif">
-    Building reliable financial infrastructure at scale.
-  </text>
+<text x="92" y="295" fill="#CBD5E1" font-size="24" font-family="Segoe UI, Arial, sans-serif">
+  FinTech • Payments • Distributed Systems • London, UK
+</text>
 
   <!-- achievement cards -->
   <rect x="930" y="70" width="255" height="100" rx="18" fill="url(#cardGradient)" stroke="#00D4FF" stroke-opacity="0.8"/>
