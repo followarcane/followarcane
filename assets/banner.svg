@@ -2,7 +2,33 @@
 
   <rect width="1600" height="420" fill="#0B1220"/>
 
-  <text x="80" y="120"
+  <!-- Background Network -->
+
+  <g opacity="0.18">
+
+    <line x1="850" y1="80" x2="980" y2="120" stroke="#00D4FF" stroke-width="1"/>
+    <line x1="980" y1="120" x2="1100" y2="90" stroke="#00D4FF" stroke-width="1"/>
+    <line x1="1100" y1="90" x2="1260" y2="140" stroke="#00D4FF" stroke-width="1"/>
+    <line x1="1260" y1="140" x2="1420" y2="110" stroke="#00D4FF" stroke-width="1"/>
+
+    <line x1="980" y1="120" x2="1020" y2="220" stroke="#00D4FF" stroke-width="1"/>
+    <line x1="1260" y1="140" x2="1280" y2="220" stroke="#00D4FF" stroke-width="1"/>
+
+    <circle cx="850" cy="80" r="4" fill="#00D4FF"/>
+    <circle cx="980" cy="120" r="4" fill="#00D4FF"/>
+    <circle cx="1100" cy="90" r="4" fill="#00D4FF"/>
+    <circle cx="1260" cy="140" r="4" fill="#00D4FF"/>
+    <circle cx="1420" cy="110" r="4" fill="#00D4FF"/>
+
+    <circle cx="1020" cy="220" r="4" fill="#00D4FF"/>
+    <circle cx="1280" cy="220" r="4" fill="#00D4FF"/>
+
+  </g>
+
+  <!-- Left Side -->
+
+  <text x="80"
+        y="120"
         fill="white"
         font-size="52"
         font-family="Segoe UI, Arial, sans-serif"
@@ -10,42 +36,42 @@
     BATUHAN BITER
   </text>
 
-  <text x="80" y="180"
+  <text x="80"
+        y="180"
         fill="#00D4FF"
         font-size="30"
         font-family="Segoe UI, Arial, sans-serif">
     Senior Backend Engineer
   </text>
 
-  <text x="80" y="230"
+  <text x="80"
+        y="230"
         fill="#CBD5E1"
         font-size="22"
         font-family="Segoe UI, Arial, sans-serif">
     FinTech • Payments • Distributed Systems
   </text>
 
-  <text x="80" y="330"
+  <text x="80"
+        y="340"
         fill="#94A3B8"
-        font-size="18"
+        font-size="20"
         font-family="Segoe UI, Arial, sans-serif">
-    Designing scalable payment infrastructure,
+    Building reliable financial infrastructure at scale.
   </text>
 
-  <text x="80" y="360"
-        fill="#94A3B8"
-        font-size="18"
-        font-family="Segoe UI, Arial, sans-serif">
-    distributed systems, and reliable financial platforms.
-  </text>
+  <!-- Achievement Cards -->
 
-    <!-- Achievement Cards -->
-
-  <rect x="980" y="60" width="220" height="90" rx="12"
+  <rect x="980" y="60"
+        width="220"
+        height="90"
+        rx="12"
         fill="#101A2D"
         stroke="#00D4FF"
         stroke-width="1"/>
 
-  <text x="1010" y="100"
+  <text x="1010"
+        y="100"
         fill="#00D4FF"
         font-size="32"
         font-weight="700"
@@ -53,20 +79,24 @@
     50+
   </text>
 
-  <text x="1010" y="130"
+  <text x="1010"
+        y="130"
         fill="white"
         font-size="18"
         font-family="Segoe UI, Arial, sans-serif">
     PSP Integrations
   </text>
 
-
-  <rect x="1230" y="60" width="220" height="90" rx="12"
+  <rect x="1230" y="60"
+        width="220"
+        height="90"
+        rx="12"
         fill="#101A2D"
         stroke="#4F46E5"
         stroke-width="1"/>
 
-  <text x="1260" y="100"
+  <text x="1260"
+        y="100"
         fill="#4F46E5"
         font-size="32"
         font-weight="700"
@@ -74,20 +104,24 @@
     30s→300ms
   </text>
 
-  <text x="1260" y="130"
+  <text x="1260"
+        y="130"
         fill="white"
         font-size="18"
         font-family="Segoe UI, Arial, sans-serif">
     Optimization
   </text>
 
-
-  <rect x="980" y="180" width="220" height="90" rx="12"
+  <rect x="980" y="180"
+        width="220"
+        height="90"
+        rx="12"
         fill="#101A2D"
         stroke="#00D4FF"
         stroke-width="1"/>
 
-  <text x="1010" y="220"
+  <text x="1010"
+        y="220"
         fill="#00D4FF"
         font-size="32"
         font-weight="700"
@@ -95,20 +129,24 @@
     12M+
   </text>
 
-  <text x="1010" y="250"
+  <text x="1010"
+        y="250"
         fill="white"
         font-size="18"
         font-family="Segoe UI, Arial, sans-serif">
     Record Migration
   </text>
 
-
-  <rect x="1230" y="180" width="220" height="90" rx="12"
+  <rect x="1230" y="180"
+        width="220"
+        height="90"
+        rx="12"
         fill="#101A2D"
         stroke="#4F46E5"
         stroke-width="1"/>
 
-  <text x="1260" y="220"
+  <text x="1260"
+        y="220"
         fill="#4F46E5"
         font-size="32"
         font-weight="700"
@@ -116,7 +154,8 @@
     PCI
   </text>
 
-  <text x="1260" y="250"
+  <text x="1260"
+        y="250"
         fill="white"
         font-size="18"
         font-family="Segoe UI, Arial, sans-serif">
