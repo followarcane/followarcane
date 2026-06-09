@@ -29,28 +29,27 @@
   <text x="110" y="370" fill="#94A3B8" font-size="20" font-family="Segoe UI, Arial">Focused on reliability, performance,</text>
   <text x="110" y="402" fill="#94A3B8" font-size="20" font-family="Segoe UI, Arial">cloud-native architecture, and clean design.</text>
 
-  <!-- Highlight Cards -->
+ <!-- HIGHLIGHTS PANEL -->
+<rect x="635" y="75" width="890" height="385" rx="20" fill="#0F172A" stroke="#1E3A5F"/>
 
-<!-- HIGHLIGHTS PANEL TITLE -->
-<text x="555" y="125" fill="#E2E8F0" font-size="30" font-weight="800" font-family="Segoe UI, Arial">KEY ENGINEERING HIGHLIGHTS</text>
-<line x1="555" y1="150" x2="1455" y2="150" stroke="#1E3A5F"/>
+<text x="675" y="125" fill="#E2E8F0" font-size="30" font-weight="800" font-family="Segoe UI, Arial">KEY ENGINEERING HIGHLIGHTS</text>
+<line x1="675" y1="150" x2="1485" y2="150" stroke="#1E3A5F"/>
 
-<!-- Highlight Cards -->
-<rect x="555" y="185" width="410" height="105" rx="14" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.7"/>
-<text x="585" y="228" fill="#00D4FF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">50+ PSP Integrations</text>
-<text x="585" y="260" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Providers, acquirers, and APMs</text>
+<rect x="675" y="185" width="380" height="105" rx="14" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.7"/>
+<text x="705" y="228" fill="#00D4FF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">50+ PSP Integrations</text>
+<text x="705" y="260" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Providers, acquirers, and APMs</text>
 
-<rect x="1010" y="185" width="410" height="105" rx="14" fill="#101A2D" stroke="#7C6DFF" stroke-opacity="0.7"/>
-<text x="1040" y="228" fill="#7C6DFF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">30s → 300ms</text>
-<text x="1040" y="260" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Production API optimization</text>
+<rect x="1090" y="185" width="380" height="105" rx="14" fill="#101A2D" stroke="#7C6DFF" stroke-opacity="0.7"/>
+<text x="1120" y="228" fill="#7C6DFF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">30s → 300ms</text>
+<text x="1120" y="260" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Production API optimization</text>
 
-<rect x="555" y="320" width="410" height="105" rx="14" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.7"/>
-<text x="585" y="363" fill="#00D4FF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">12M+ Records</text>
-<text x="585" y="395" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Zero-downtime migration</text>
+<rect x="675" y="320" width="380" height="105" rx="14" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.7"/>
+<text x="705" y="363" fill="#00D4FF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">12M+ Records</text>
+<text x="705" y="395" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Zero-downtime migration</text>
 
-<rect x="1010" y="320" width="410" height="105" rx="14" fill="#101A2D" stroke="#7C6DFF" stroke-opacity="0.7"/>
-<text x="1040" y="363" fill="#7C6DFF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">PCI Systems</text>
-<text x="1040" y="395" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Security and auditability</text>
+<rect x="1090" y="320" width="380" height="105" rx="14" fill="#101A2D" stroke="#7C6DFF" stroke-opacity="0.7"/>
+<text x="1120" y="363" fill="#7C6DFF" font-size="25" font-weight="800" font-family="Segoe UI, Arial">PCI Systems</text>
+<text x="1120" y="395" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Security and auditability</text>
 
   <!-- TECH STACK PANEL -->
   <rect x="75" y="500" width="710" height="390" rx="20" fill="#0F172A" stroke="#1E3A5F"/>
