@@ -91,11 +91,11 @@
   <text x="1135" y="235" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Java • Spring Boot • Spring Cloud</text>
   <text x="1135" y="270" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Hibernate • JPA • REST APIs</text>
 
-  <text x="1135" y="340" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Cloud & DevOps</text>
+  <text x="1135" y="340" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Cloud &amp; DevOps</text>
   <text x="1135" y="375" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">AWS • Kubernetes • Docker</text>
   <text x="1135" y="410" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">CI/CD • Monitoring • Alerting</text>
 
-  <text x="1135" y="480" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Databases & Messaging</text>
+  <text x="1135" y="480" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Databases &amp; Messaging</text>
   <text x="1135" y="515" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">PostgreSQL • SQL Server • Redis</text>
   <text x="1135" y="550" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Async Processing • Queues</text>
 
