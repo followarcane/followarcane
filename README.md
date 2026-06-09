@@ -19,15 +19,22 @@
 
 ## About Me
 
-Backend engineer focused on building payment infrastructure, distributed systems and high-availability financial platforms.
+Senior Backend Engineer based in London, focused on **fintech**, **payment infrastructure**, and **distributed backend systems**.
 
-- 10+ years of software engineering experience
-- 50+ PSP and payment integrations
-- PCI-compliant payment systems
-- Large-scale transaction processing
-- Distributed and event-driven architectures
-- Production performance optimization
-- Cloud-native backend services
+I build backend platforms where reliability, performance, correctness, and operational resilience matter.
+
+---
+
+## Engineering Highlights
+
+| Area | Impact |
+|---|---|
+| Payments | Integrated **50+ PSPs**, acquirers, and alternative payment methods |
+| Performance | Reduced a critical production API response time from **30s to 300ms** |
+| Data | Executed **zero-downtime migration of 12M+ records** |
+| Security | Worked on **PCI-compliant** payment environments |
+| Reliability | Built resilient asynchronous processing for transaction workflows |
+| Architecture | Improved backend data design and infrastructure efficiency |
 
 ---
 
@@ -39,39 +46,33 @@ Backend engineer focused on building payment infrastructure, distributed systems
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-111827?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens)
 
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-111827?style=for-the-badge)
 
 ### Data & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka)
+![Async Processing](https://img.shields.io/badge/Async_Processing-111827?style=for-the-badge)
 
----
+### Additional
 
-## Engineering Highlights
-
-| Achievement | Description |
-|------------|-------------|
-| PSP Integrations | Integrated 50+ payment providers, acquirers and alternative payment methods |
-| Performance | Reduced critical production endpoint latency from 30s to 300ms |
-| Migration | Executed zero-downtime migration of 12M+ records |
-| Security | Built and maintained PCI-compliant payment systems |
-| Reliability | Designed resilient asynchronous transaction workflows |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=followarcane&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=followarcane&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
 
 ---
 
@@ -80,8 +81,14 @@ Backend engineer focused on building payment infrastructure, distributed systems
 - Payment Infrastructure
 - Distributed Systems
 - Event-Driven Architecture
-- Cloud-Native Applications
+- Cloud-Native Backend Systems
 - System Design
-- AI-Assisted Development
+- AI-Assisted Software Development
 
 ---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=followarcane&theme=tokyo-night&hide_border=true" />
+</p>
