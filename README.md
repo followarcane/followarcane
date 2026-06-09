@@ -19,22 +19,22 @@
 
 ## About Me
 
-Senior Backend Engineer based in London, focused on **fintech**, **payment infrastructure**, and **distributed backend systems**.
+Senior Backend Engineer with 10+ years of experience building fintech products, payment infrastructure, and distributed backend systems.
 
-I build backend platforms where reliability, performance, correctness, and operational resilience matter.
+Experienced in designing and scaling payment platforms, integrating 50+ payment providers, optimizing high-traffic services, and developing resilient backend systems where reliability, correctness, and performance are critical.
 
 ---
 
 ## Engineering Highlights
 
 | Area | Impact |
-|---|---|
+|------|--------|
 | Payments | Integrated **50+ PSPs**, acquirers, and alternative payment methods |
 | Performance | Reduced a critical production API response time from **30s to 300ms** |
 | Data | Executed **zero-downtime migration of 12M+ records** |
 | Security | Worked on **PCI-compliant** payment environments |
-| Reliability | Built resilient asynchronous processing for transaction workflows |
-| Architecture | Improved backend data design and infrastructure efficiency |
+| Reliability | Built resilient asynchronous transaction workflows |
+| Architecture | Designed and improved distributed backend services |
 
 ---
 
@@ -83,12 +83,4 @@ I build backend platforms where reliability, performance, correctness, and opera
 - Event-Driven Architecture
 - Cloud-Native Backend Systems
 - System Design
-- AI-Assisted Software Development
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=followarcane&theme=tokyo-night&hide_border=true" />
-</p>
+- AI-Assisted Development
