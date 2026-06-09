@@ -51,19 +51,19 @@
     <circle cx="1280" cy="275" r="5" fill="#4F46E5"/>
   </g>
 
-  <rect x="930" y="70" width="270" height="105" rx="18" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.8"/>
+  <rect x="930" y="70" width="260" height="105" rx="18" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.8"/>
   <text x="965" y="118" fill="#00D4FF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">50+</text>
   <text x="965" y="150" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">PSP Integrations</text>
 
-  <rect x="1210" y="70" width="270" height="105" rx="18" fill="#101A2D" stroke="#4F46E5" stroke-opacity="0.9"/>
+  <rect x="1210" y="70" width="260" height="105" rx="18" fill="#101A2D" stroke="#4F46E5" stroke-opacity="0.9"/>
   <text x="1245" y="118" fill="#7C6DFF" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="800">30s → 300ms</text>
   <text x="1245" y="150" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">API Optimization</text>
 
-  <rect x="930" y="205" width="270" height="105" rx="18" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.8"/>
+  <rect x="930" y="205" width="260" height="105" rx="18" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.8"/>
   <text x="965" y="253" fill="#00D4FF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">12M+</text>
   <text x="965" y="285" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">Records Migrated</text>
 
-  <rect x="1210" y="205" width="270" height="105" rx="18" fill="#101A2D" stroke="#4F46E5" stroke-opacity="0.9"/>
+  <rect x="1210" y="205" width="260" height="105" rx="18" fill="#101A2D" stroke="#4F46E5" stroke-opacity="0.9"/>
   <text x="1245" y="253" fill="#7C6DFF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">PCI</text>
   <text x="1245" y="285" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">Compliant Systems</text>
 
