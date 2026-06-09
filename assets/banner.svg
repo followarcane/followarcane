@@ -38,4 +38,89 @@
     distributed systems, and reliable financial platforms.
   </text>
 
+    <!-- Achievement Cards -->
+
+  <rect x="980" y="60" width="220" height="90" rx="12"
+        fill="#101A2D"
+        stroke="#00D4FF"
+        stroke-width="1"/>
+
+  <text x="1010" y="100"
+        fill="#00D4FF"
+        font-size="32"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    50+
+  </text>
+
+  <text x="1010" y="130"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI, Arial, sans-serif">
+    PSP Integrations
+  </text>
+
+
+  <rect x="1230" y="60" width="220" height="90" rx="12"
+        fill="#101A2D"
+        stroke="#4F46E5"
+        stroke-width="1"/>
+
+  <text x="1260" y="100"
+        fill="#4F46E5"
+        font-size="32"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    30s→300ms
+  </text>
+
+  <text x="1260" y="130"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI, Arial, sans-serif">
+    Optimization
+  </text>
+
+
+  <rect x="980" y="180" width="220" height="90" rx="12"
+        fill="#101A2D"
+        stroke="#00D4FF"
+        stroke-width="1"/>
+
+  <text x="1010" y="220"
+        fill="#00D4FF"
+        font-size="32"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    12M+
+  </text>
+
+  <text x="1010" y="250"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI, Arial, sans-serif">
+    Record Migration
+  </text>
+
+
+  <rect x="1230" y="180" width="220" height="90" rx="12"
+        fill="#101A2D"
+        stroke="#4F46E5"
+        stroke-width="1"/>
+
+  <text x="1260" y="220"
+        fill="#4F46E5"
+        font-size="32"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    PCI
+  </text>
+
+  <text x="1260" y="250"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI, Arial, sans-serif">
+    Compliant Systems
+  </text>
+
 </svg>
