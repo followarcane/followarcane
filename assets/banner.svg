@@ -1,73 +1,101 @@
 <svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.22"/>
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.24"/>
       <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.24"/>
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
     </radialGradient>
+
+    <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101A2D"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
   </defs>
 
   <rect width="1600" height="420" fill="#070D18"/>
 
-  <circle cx="1180" cy="120" r="360" fill="url(#glow1)"/>
-  <circle cx="1450" cy="300" r="320" fill="url(#glow2)"/>
+  <circle cx="1120" cy="100" r="380" fill="url(#glow1)"/>
+  <circle cx="1460" cy="310" r="330" fill="url(#glow2)"/>
 
   <rect x="28" y="28" width="1544" height="364" rx="26" fill="#0B1220" stroke="#1E3A5F"/>
 
-  <text x="90" y="125" fill="white" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="800">
+  <!-- subtle dotted world-map / global network feel -->
+  <g opacity="0.13">
+    <circle cx="760" cy="105" r="3" fill="#00D4FF"/>
+    <circle cx="795" cy="88" r="3" fill="#00D4FF"/>
+    <circle cx="830" cy="118" r="3" fill="#00D4FF"/>
+    <circle cx="870" cy="95" r="3" fill="#00D4FF"/>
+    <circle cx="910" cy="130" r="3" fill="#00D4FF"/>
+    <circle cx="945" cy="108" r="3" fill="#00D4FF"/>
+    <circle cx="985" cy="150" r="3" fill="#00D4FF"/>
+    <circle cx="1025" cy="128" r="3" fill="#00D4FF"/>
+    <circle cx="1065" cy="170" r="3" fill="#00D4FF"/>
+    <circle cx="1105" cy="145" r="3" fill="#00D4FF"/>
+    <circle cx="1145" cy="185" r="3" fill="#00D4FF"/>
+    <circle cx="1185" cy="160" r="3" fill="#00D4FF"/>
+    <circle cx="1225" cy="205" r="3" fill="#00D4FF"/>
+    <circle cx="1265" cy="178" r="3" fill="#00D4FF"/>
+    <circle cx="1305" cy="220" r="3" fill="#00D4FF"/>
+    <circle cx="1345" cy="195" r="3" fill="#00D4FF"/>
+    <circle cx="1385" cy="238" r="3" fill="#00D4FF"/>
+    <circle cx="1425" cy="214" r="3" fill="#00D4FF"/>
+  </g>
+
+  <!-- network lines -->
+  <g opacity="0.25">
+    <line x1="760" y1="105" x2="870" y2="95" stroke="#00D4FF"/>
+    <line x1="870" y1="95" x2="985" y2="150" stroke="#00D4FF"/>
+    <line x1="985" y1="150" x2="1105" y2="145" stroke="#00D4FF"/>
+    <line x1="1105" y1="145" x2="1225" y2="205" stroke="#4F46E5"/>
+    <line x1="1225" y1="205" x2="1345" y2="195" stroke="#4F46E5"/>
+    <line x1="1345" y1="195" x2="1425" y2="214" stroke="#4F46E5"/>
+  </g>
+
+  <!-- small label chip -->
+  <rect x="90" y="72" width="235" height="34" rx="17" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.45"/>
+  <text x="110" y="95" fill="#8BE9FF" font-size="15" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    GLOBAL PAYMENTS INFRA
+  </text>
+
+  <!-- left copy -->
+  <text x="90" y="155" fill="white" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="800">
     BATUHAN BITER
   </text>
 
-  <text x="92" y="185" fill="#00D4FF" font-size="32" font-family="Segoe UI, Arial, sans-serif" font-weight="600">
-    Senior Backend Engineer
+  <text x="92" y="210" fill="#00D4FF" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    Senior Backend Engineer @ Financial House
   </text>
 
-  <text x="92" y="235" fill="#CBD5E1" font-size="23" font-family="Segoe UI, Arial, sans-serif">
-    FinTech • Payments • Distributed Systems
+  <text x="92" y="255" fill="#CBD5E1" font-size="23" font-family="Segoe UI, Arial, sans-serif">
+    FinTech • Payments • Distributed Systems • London, UK
   </text>
 
-  <text x="92" y="332" fill="#94A3B8" font-size="22" font-family="Segoe UI, Arial, sans-serif">
+  <text x="92" y="335" fill="#94A3B8" font-size="22" font-family="Segoe UI, Arial, sans-serif">
     Building reliable financial infrastructure at scale.
   </text>
 
-  <g opacity="0.28">
-    <line x1="780" y1="95" x2="910" y2="155" stroke="#00D4FF"/>
-    <line x1="910" y1="155" x2="1030" y2="105" stroke="#00D4FF"/>
-    <line x1="1030" y1="105" x2="1160" y2="165" stroke="#00D4FF"/>
-    <line x1="1160" y1="165" x2="1310" y2="120" stroke="#00D4FF"/>
-    <line x1="910" y1="155" x2="1010" y2="265" stroke="#4F46E5"/>
-    <line x1="1160" y1="165" x2="1280" y2="275" stroke="#4F46E5"/>
+  <!-- achievement cards -->
+  <rect x="930" y="70" width="255" height="100" rx="18" fill="url(#cardGradient)" stroke="#00D4FF" stroke-opacity="0.8"/>
+  <text x="965" y="115" fill="#00D4FF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">50+</text>
+  <text x="965" y="146" fill="#E2E8F0" font-size="18" font-family="Segoe UI, Arial, sans-serif">PSP Integrations</text>
 
-    <circle cx="780" cy="95" r="5" fill="#00D4FF"/>
-    <circle cx="910" cy="155" r="5" fill="#00D4FF"/>
-    <circle cx="1030" cy="105" r="5" fill="#00D4FF"/>
-    <circle cx="1160" cy="165" r="5" fill="#00D4FF"/>
-    <circle cx="1310" cy="120" r="5" fill="#00D4FF"/>
-    <circle cx="1010" cy="265" r="5" fill="#4F46E5"/>
-    <circle cx="1280" cy="275" r="5" fill="#4F46E5"/>
-  </g>
+  <rect x="1215" y="70" width="255" height="100" rx="18" fill="url(#cardGradient)" stroke="#4F46E5" stroke-opacity="0.9"/>
+  <text x="1250" y="115" fill="#8B7CFF" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="800">30s → 300ms</text>
+  <text x="1250" y="146" fill="#E2E8F0" font-size="18" font-family="Segoe UI, Arial, sans-serif">API Optimization</text>
 
-  <rect x="930" y="70" width="260" height="105" rx="18" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.8"/>
-  <text x="965" y="118" fill="#00D4FF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">50+</text>
-  <text x="965" y="150" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">PSP Integrations</text>
+  <rect x="930" y="200" width="255" height="100" rx="18" fill="url(#cardGradient)" stroke="#00D4FF" stroke-opacity="0.8"/>
+  <text x="965" y="245" fill="#00D4FF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">12M+</text>
+  <text x="965" y="276" fill="#E2E8F0" font-size="18" font-family="Segoe UI, Arial, sans-serif">Records Migrated</text>
 
-  <rect x="1210" y="70" width="260" height="105" rx="18" fill="#101A2D" stroke="#4F46E5" stroke-opacity="0.9"/>
-  <text x="1245" y="118" fill="#7C6DFF" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="800">30s → 300ms</text>
-  <text x="1245" y="150" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">API Optimization</text>
+  <rect x="1215" y="200" width="255" height="100" rx="18" fill="url(#cardGradient)" stroke="#4F46E5" stroke-opacity="0.9"/>
+  <text x="1250" y="245" fill="#8B7CFF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">PCI</text>
+  <text x="1250" y="276" fill="#E2E8F0" font-size="18" font-family="Segoe UI, Arial, sans-serif">Compliant Systems</text>
 
-  <rect x="930" y="205" width="260" height="105" rx="18" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.8"/>
-  <text x="965" y="253" fill="#00D4FF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">12M+</text>
-  <text x="965" y="285" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">Records Migrated</text>
-
-  <rect x="1210" y="205" width="260" height="105" rx="18" fill="#101A2D" stroke="#4F46E5" stroke-opacity="0.9"/>
-  <text x="1245" y="253" fill="#7C6DFF" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">PCI</text>
-  <text x="1245" y="285" fill="#E2E8F0" font-size="19" font-family="Segoe UI, Arial, sans-serif">Compliant Systems</text>
-
-  <text x="1180" y="355" fill="#64748B" font-size="16" font-family="Segoe UI, Arial, sans-serif">
+  <text x="1095" y="352" fill="#64748B" font-size="16" font-family="Segoe UI, Arial, sans-serif">
     Java • Spring Boot • AWS • Kubernetes • PostgreSQL
   </text>
 </svg>
