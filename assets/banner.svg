@@ -23,15 +23,23 @@
 
   <rect x="28" y="28" width="1544" height="364" rx="26" fill="#0B1220" stroke="#1E3A5F"/>
 
-  <!-- network lines -->
-  <g opacity="0.25">
-    <line x1="760" y1="105" x2="870" y2="95" stroke="#00D4FF"/>
-    <line x1="870" y1="95" x2="985" y2="150" stroke="#00D4FF"/>
-    <line x1="985" y1="150" x2="1105" y2="145" stroke="#00D4FF"/>
-    <line x1="1105" y1="145" x2="1225" y2="205" stroke="#4F46E5"/>
-    <line x1="1225" y1="205" x2="1345" y2="195" stroke="#4F46E5"/>
-    <line x1="1345" y1="195" x2="1425" y2="214" stroke="#4F46E5"/>
-  </g>
+  <!-- distributed systems network -->
+<g opacity="0.28">
+  <line x1="760" y1="105" x2="870" y2="95" stroke="#00D4FF"/>
+  <line x1="870" y1="95" x2="985" y2="150" stroke="#00D4FF"/>
+  <line x1="985" y1="150" x2="1105" y2="145" stroke="#00D4FF"/>
+  <line x1="1105" y1="145" x2="1225" y2="205" stroke="#4F46E5"/>
+  <line x1="1225" y1="205" x2="1345" y2="195" stroke="#4F46E5"/>
+  <line x1="1345" y1="195" x2="1425" y2="214" stroke="#4F46E5"/>
+
+  <circle cx="760" cy="105" r="5" fill="#00D4FF"/>
+  <circle cx="870" cy="95" r="5" fill="#00D4FF"/>
+  <circle cx="985" cy="150" r="5" fill="#00D4FF"/>
+  <circle cx="1105" cy="145" r="5" fill="#00D4FF"/>
+  <circle cx="1225" cy="205" r="5" fill="#4F46E5"/>
+  <circle cx="1345" cy="195" r="5" fill="#4F46E5"/>
+  <circle cx="1425" cy="214" r="5" fill="#4F46E5"/>
+</g>>
 
   <!-- small label chip -->
   <rect x="90" y="72" width="235" height="34" rx="17" fill="#101A2D" stroke="#00D4FF" stroke-opacity="0.45"/>
