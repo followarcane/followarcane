@@ -17,3 +17,28 @@
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+## 👨‍💻 About Me
+
+Senior Backend Engineer based in London with 8+ years of experience building fintech products, payment infrastructure, and distributed systems.
+
+My work focuses on designing reliable backend services, solving complex production issues, improving performance, and building systems that remain stable under scale.
+
+### Current Focus
+
+- 🏦 Payment Infrastructure
+- ⚡ Performance Engineering
+- ☁️ AWS & Cloud Architecture
+- 🔄 Distributed Systems
+- 🧠 AI-Assisted Software Development
+- 🏗️ System Design
+
+## 🚀 Engineering Highlights
+
+- Integrated **50+ Payment Service Providers (PSPs)** and alternative payment methods.
+- Reduced a critical production API response time from **30 seconds to 300 milliseconds**.
+- Executed a **zero-downtime migration of 12M+ database records**.
+- Reduced infrastructure costs through backend architecture and database optimization.
+- Built resilient asynchronous processing systems for payment notifications and transaction workflows.
+- Worked within **PCI-compliant** payment environments.
+
