@@ -1,0 +1,110 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#070D18"/>
+
+  <defs>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="260" cy="130" r="260" fill="url(#cyanGlow)"/>
+  <circle cx="1260" cy="720" r="340" fill="url(#purpleGlow)"/>
+
+  <!-- Main Border -->
+  <rect x="28" y="28" width="1544" height="844" rx="26" fill="#0B1220" stroke="#1E3A5F"/>
+
+  <!-- Column Panels -->
+  <rect x="60" y="70" width="440" height="760" rx="20" fill="#0F172A" stroke="#1E3A5F"/>
+  <rect x="540" y="70" width="520" height="760" rx="20" fill="#0F172A" stroke="#1E3A5F"/>
+  <rect x="1100" y="70" width="440" height="760" rx="20" fill="#0F172A" stroke="#1E3A5F"/>
+
+  <!-- Left: About Me -->
+  <text x="95" y="120" fill="#E2E8F0" font-size="28" font-weight="800" font-family="Segoe UI, Arial">ABOUT ME</text>
+  <line x1="95" y1="145" x2="465" y2="145" stroke="#1E3A5F"/>
+
+  <text x="95" y="190" fill="#CBD5E1" font-size="20" font-family="Segoe UI, Arial">
+    Senior Backend Engineer based in London
+  </text>
+  <text x="95" y="222" fill="#CBD5E1" font-size="20" font-family="Segoe UI, Arial">
+    with 8+ years of experience building
+  </text>
+  <text x="95" y="254" fill="#CBD5E1" font-size="20" font-family="Segoe UI, Arial">
+    fintech products, payment infrastructure,
+  </text>
+  <text x="95" y="286" fill="#CBD5E1" font-size="20" font-family="Segoe UI, Arial">
+    and distributed systems.
+  </text>
+
+  <text x="95" y="350" fill="#94A3B8" font-size="19" font-family="Segoe UI, Arial">
+    Focused on scalable backend services,
+  </text>
+  <text x="95" y="380" fill="#94A3B8" font-size="19" font-family="Segoe UI, Arial">
+    production reliability, performance
+  </text>
+  <text x="95" y="410" fill="#94A3B8" font-size="19" font-family="Segoe UI, Arial">
+    optimization, and clean architecture.
+  </text>
+
+  <!-- Current Focus -->
+  <text x="95" y="490" fill="#E2E8F0" font-size="26" font-weight="800" font-family="Segoe UI, Arial">CURRENT FOCUS</text>
+  <line x1="95" y1="515" x2="465" y2="515" stroke="#1E3A5F"/>
+
+  <text x="100" y="565" fill="#00D4FF" font-size="20" font-weight="700" font-family="Segoe UI, Arial">◆ Payment Infrastructure</text>
+  <text x="100" y="610" fill="#00D4FF" font-size="20" font-weight="700" font-family="Segoe UI, Arial">◆ Distributed Systems</text>
+  <text x="100" y="655" fill="#00D4FF" font-size="20" font-weight="700" font-family="Segoe UI, Arial">◆ Performance Engineering</text>
+  <text x="100" y="700" fill="#00D4FF" font-size="20" font-weight="700" font-family="Segoe UI, Arial">◆ Cloud Architecture</text>
+  <text x="100" y="745" fill="#00D4FF" font-size="20" font-weight="700" font-family="Segoe UI, Arial">◆ AI-Assisted Development</text>
+
+  <!-- Middle: Highlights -->
+  <text x="580" y="120" fill="#E2E8F0" font-size="28" font-weight="800" font-family="Segoe UI, Arial">KEY ENGINEERING HIGHLIGHTS</text>
+  <line x1="580" y1="145" x2="1020" y2="145" stroke="#1E3A5F"/>
+
+  <!-- Highlight Items -->
+  <text x="590" y="200" fill="#00D4FF" font-size="24" font-weight="800" font-family="Segoe UI, Arial">50+ PSP Integrations</text>
+  <text x="590" y="232" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Integrated payment providers, acquirers, and alternative methods.</text>
+
+  <text x="590" y="300" fill="#7C6DFF" font-size="24" font-weight="800" font-family="Segoe UI, Arial">30s → 300ms API Optimization</text>
+  <text x="590" y="332" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Resolved production bottlenecks across ORM and serialization layers.</text>
+
+  <text x="590" y="400" fill="#00D4FF" font-size="24" font-weight="800" font-family="Segoe UI, Arial">12M+ Records Migrated</text>
+  <text x="590" y="432" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Executed zero-downtime database migration for live financial data.</text>
+
+  <text x="590" y="500" fill="#7C6DFF" font-size="24" font-weight="800" font-family="Segoe UI, Arial">Infrastructure Cost Reduction</text>
+  <text x="590" y="532" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Redesigned data architecture to improve resource utilization.</text>
+
+  <text x="590" y="600" fill="#00D4FF" font-size="24" font-weight="800" font-family="Segoe UI, Arial">PCI-Compliant Payment Systems</text>
+  <text x="590" y="632" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Focused on security, auditability, logging safety, and reliability.</text>
+
+  <text x="590" y="700" fill="#7C6DFF" font-size="24" font-weight="800" font-family="Segoe UI, Arial">Asynchronous Transaction Workflows</text>
+  <text x="590" y="732" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial">Built resilient notification and reconciliation processing patterns.</text>
+
+  <!-- Right: Tech Stack -->
+  <text x="1135" y="120" fill="#E2E8F0" font-size="28" font-weight="800" font-family="Segoe UI, Arial">TECH STACK</text>
+  <line x1="1135" y1="145" x2="1505" y2="145" stroke="#1E3A5F"/>
+
+  <text x="1135" y="200" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Backend</text>
+  <text x="1135" y="235" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Java • Spring Boot • Spring Cloud</text>
+  <text x="1135" y="270" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Hibernate • JPA • REST APIs</text>
+
+  <text x="1135" y="340" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Cloud & DevOps</text>
+  <text x="1135" y="375" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">AWS • Kubernetes • Docker</text>
+  <text x="1135" y="410" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">CI/CD • Monitoring • Alerting</text>
+
+  <text x="1135" y="480" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Databases & Messaging</text>
+  <text x="1135" y="515" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">PostgreSQL • SQL Server • Redis</text>
+  <text x="1135" y="550" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Async Processing • Queues</text>
+
+  <text x="1135" y="620" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial">Other</text>
+  <text x="1135" y="655" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">Python • C# • TypeScript</text>
+  <text x="1135" y="690" fill="#E2E8F0" font-size="21" font-weight="700" font-family="Segoe UI, Arial">React • React Native • JWT</text>
+
+  <text x="1135" y="765" fill="#00D4FF" font-size="20" font-weight="800" font-family="Segoe UI, Arial">
+    Building backend systems where reliability matters.
+  </text>
+
+</svg>
